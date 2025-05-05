@@ -5,7 +5,7 @@ My Awesome Package is a simple Node.js package that demonstrates how to create, 
 ## Install
 
 ```bash
-npm i my-awesome-package
+npm i ajay-logger
 ````
 
 ## Usage
